@@ -1,0 +1,4 @@
+*.qgz
+*.zip
+*.shp
+data/*.geojson
