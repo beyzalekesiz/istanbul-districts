@@ -1,0 +1,11 @@
+#map {
+  width: 100vw;   /* tam ekran genişlik */
+  height: 100vh;  /* tam ekran yükseklik */
+  margin: 0;
+  padding: 0;
+}
+body, html {
+  margin: 0; 
+  padding: 0;
+  height: 100%;
+}
